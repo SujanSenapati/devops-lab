@@ -22,3 +22,4 @@ curl http://localhost
 | /reset   | POST   | Reset visit counter to zero |
 | /stats   | GET    | Return full stats |
 | /health  | GET    | Health check |
+trigger webhook
