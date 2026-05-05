@@ -23,3 +23,4 @@ curl http://localhost
 | /stats   | GET    | Return full stats |
 | /health  | GET    | Health check |
 trigger webhook
+final test
