@@ -25,3 +25,4 @@ curl http://localhost
 trigger webhook
 final test
 webhook auto test
+auto webhook success test
