@@ -24,3 +24,4 @@ curl http://localhost
 | /health  | GET    | Health check |
 trigger webhook
 final test
+webhook auto test
